@@ -24,7 +24,6 @@
 </p>
 
 <p align="center"><strong>《代码随想录》正式出版啦！！录友专属福利，点击下方可以享五折优惠！详细可以<a href="https://programmercarl.com/other/publish.html">点击这里</a></strong></p>
-
 <p align="center">
 <a href="https://union-click.jd.com/jdc?e=&p=JF8BAMQJK1olXg8EUVhVCkkWAV8IGV8WVAICU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAUF1UDEsQHDZNRwYlX0B9A1cfakpyYBkSRj4QKFBUEEAfaEcbM244GFIXWQYAUV5VOHsXBF9edVsUXAcDVVtdDUgnAl8IHFkdXw8KUl5fDkgRM2gIEmtIFVpKAxVtOHsUM184G2sWbURsVApfAR8XA2sLSw8cWA8LUw1ZCElHAmhdTAxGW1YBUlxtCkoWB2Y4" target="_blank">
 	<img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211213180559.png" width="400"/>
@@ -59,9 +58,7 @@
 如果你在刷leetcode，强烈建议先按照本攻略刷题顺序来刷，刷完了你会发现对整个知识体系有一个质的飞跃，不用在题海茫然的寻找方向。
 
 <div align="center"><strong>最新文章会首发在公众号「代码随想录」，扫码看看吧，你会发现相见恨晚！</strong></img></div>
-
 <div align="center"><img src='./pics/公众号二维码.jpg' width=150 alt=''> </img></div> 
-
 ## 如何使用该刷题攻略
 
 电脑端还看不到留言，大家可以在公众号[「代码随想录」](https://img-blog.csdnimg.cn/20201124161234338.png)，左下角有「刷题攻略」，这是手机版刷题攻略，看完就会发现有很多录友（代码随想录的朋友们）在文章下留言打卡，这份刷题顺序和题解已经陪伴了上万录友了，同时也说明文章的质量是经过上万人的考验！
@@ -177,7 +174,7 @@
 * [大半年过去了......](https://mp.weixin.qq.com/s/lubfeistPxBLSQIe5XYg5g)
 * [一万录友在B站学算法！](https://mp.weixin.qq.com/s/Vzq4zkMZY7erKeu0fqGLgw)
 
-## 数组 
+## 数组  🚩
 
 1. [数组过于简单，但你该了解这些！](./problems/数组理论基础.md) 
 2. [数组：每次遇到二分法，都是一看就会，一写就废](./problems/0704.二分查找.md)
@@ -187,7 +184,7 @@
 6. [数组：这个循环可以转懵很多人！](./problems/0059.螺旋矩阵II.md)
 7. [数组：总结篇](./problems/数组总结篇.md)
 
-## 链表
+## 链表 ✅
 
 1. [关于链表，你该了解这些！](./problems/链表理论基础.md)
 2. [链表：听说用虚拟头节点会方便很多？](./problems/0203.移除链表元素.md)
@@ -199,7 +196,7 @@
 8. [链表：环找到了，那入口呢？](./problems/0142.环形链表II.md)
 9. [链表：总结篇！](./problems/链表总结篇.md)
 
-## 哈希表
+## 哈希表 ✅
 
 1. [关于哈希表，你该了解这些！](./problems/哈希表理论基础.md)
 2. [哈希表：可以拿数组当哈希表来用，但哈希值不要太大](./problems/0242.有效的字母异位词.md)
@@ -293,7 +290,7 @@
 33. [二叉树：构造一棵搜索树](./problems/0108.将有序数组转换为二叉搜索树.md)
 34. [二叉树：搜索树转成累加树](./problems/0538.把二叉搜索树转换为累加树.md)
 35. [二叉树：总结篇！（需要掌握的二叉树技能都在这里了）](./problems/二叉树总结篇.md)
- 
+
 ## 回溯算法 
 
 题目分类大纲如下：             
@@ -573,7 +570,6 @@
 <div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20220102204804.png" data-img="1" width="200" height="200"></img></div>
 
 
-
 # 公众号
 
 更多精彩文章持续更新，微信搜索：「代码随想录」第一时间围观，关注后回复：666，可以获得我的所有算法专题原创PDF。
@@ -584,4 +580,3 @@
 
 <a name="公众号"></a>
 <div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211026122841.png" data-img="1" width="650" height="500"></img></div>
-
