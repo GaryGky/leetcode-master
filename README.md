@@ -5,7 +5,6 @@
 > 第二阶段：刷力扣编号1000以上的应用题。
 
 ## 数组  ✅
-
 1. [数组过于简单，但你该了解这些！](./problems/数组理论基础.md) 
 2. [数组：每次遇到二分法，都是一看就会，一写就废](./problems/0704.二分查找.md)
 3. [数组：就移除个元素很难么？](./problems/0027.移除元素.md)
@@ -383,28 +382,3 @@
 * [二叉树的递归遍历](https://www.bilibili.com/video/BV1Wh411S7xt)
 * [二叉树的非递归遍历（一）](https://www.bilibili.com/video/BV15f4y1W7i2)
 
-（持续更新中....）
-
-# 贡献者 
-
-[点此这里](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)查看LeetCode-Master的所有贡献者。感谢他们补充了LeetCode-Master的其他语言版本，让更多的读者收益于此项目。
-
-# 关于作者
-
-大家好，我是程序员Carl，哈工大师兄，《代码随想录》作者，先后在腾讯和百度从事后端技术研发，CSDN博客专家。对算法和C++后端技术有一定的见解，利用工作之余重新刷leetcode。 
-
-加入「代码随想录」刷题小分队（微信群），可以扫下方二维码加我微信。
-
-如果是已工作，备注：姓名-城市-岗位-组队刷题。如果学生，备注：姓名-学校-年级-组队刷题。**备注没有自我介绍不通过哦**
-
-<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20220102204804.png" data-img="1" width="200" height="200"></img></div>
-# 公众号
-
-更多精彩文章持续更新，微信搜索：「代码随想录」第一时间围观，关注后回复：666，可以获得我的所有算法专题原创PDF。
-
-**「代码随想录」每天准时为你推送一篇经典面试题目，帮你梳理算法知识体系，轻松学习算法！**，并且公众号里有大量学习资源，也有我自己的学习心得和方法总结，更有上万录友们在这里打卡学习。
-
-**来看看就知道了，你会发现相见恨晚！**
-
-<a name="公众号"></a>
-<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211026122841.png" data-img="1" width="650" height="500"></img></div>
