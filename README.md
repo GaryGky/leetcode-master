@@ -90,8 +90,8 @@
 - [643. 子数组最大平均数 I](https://leetcode-cn.com/problems/maximum-average-subarray-i/)
 - [1423. 可获得的最大点数](https://leetcode-cn.com/problems/maximum-points-you-can-obtain-from-cards/)
 - [1610. 可见点的最大数目](https://leetcode-cn.com/problems/maximum-number-of-visible-points/)
-- [1984. 学生分数的最小差值](https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)
-- [1004. 最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)
+- [1984. 学生分数的最小差值](https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)✅
+- [1004. 最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)✅
 
 ## 二叉树 
 
