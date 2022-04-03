@@ -84,7 +84,7 @@
 ## 双指针算法
 
 - [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
-- [30. 串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/)
+- [30. 串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/)（**Hard**）
 - [187. 重复的DNA序列](https://leetcode-cn.com/problems/repeated-dna-sequences/) ✅
 - [480. 滑动窗口中位数](https://leetcode-cn.com/problems/sliding-window-median/)
 - [643. 子数组最大平均数 I](https://leetcode-cn.com/problems/maximum-average-subarray-i/) ✅
@@ -102,7 +102,7 @@
 2. [二叉树：一入递归深似海，从此offer是路人](./problems/二叉树的递归遍历.md)
 3. [二叉树：听说递归能做的，栈也能做！](./problems/二叉树的迭代遍历.md)
 4. [二叉树：前中后序迭代方式的写法就不能统一一下么？](./problems/二叉树的统一迭代法.md)
-5. [二叉树：层序遍历登场！](./problems/0102.二叉树的层序遍历.md) 
+5. [二叉树：层序遍历登场！](./problems/0102.二叉树的层序遍历.md) ✅ 4.03
 6. [二叉树：你真的会翻转二叉树么？](./problems/0226.翻转二叉树.md) 
 7. [本周小结！（二叉树）](./problems/周总结/20200927二叉树周末总结.md)
 8. [二叉树：我对称么？](./problems/0101.对称二叉树.md)
