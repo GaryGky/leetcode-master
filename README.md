@@ -81,9 +81,9 @@
 8. [栈与队列：求前 K 个高频元素和队列有啥关系？](./problems/0347.前K个高频元素.md)
 9. [栈与队列：总结篇！](./problems/栈与队列总结.md)
 
-## 双指针算法
+## 双指针算法 / 滑动窗口
 
-- [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
+- [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)✅
 - [30. 串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/)（**Hard**）
 - [187. 重复的DNA序列](https://leetcode-cn.com/problems/repeated-dna-sequences/) ✅
 - [480. 滑动窗口中位数](https://leetcode-cn.com/problems/sliding-window-median/)
@@ -93,7 +93,7 @@
 - [1984. 学生分数的最小差值](https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) ✅
 - [1004. 最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/) ✅
 
-## 二叉树 
+## 二叉树
 
 题目分类大纲如下：           
 <img src='https://img-blog.csdnimg.cn/20210219190809451.png' width=600 alt='二叉树大纲'> </img></div>
