@@ -2,10 +2,6 @@
 
 尽量保证**日更**！坚持！!
 
-> 第一阶段：分类刷完以下所有类型的题目。
->
-> 第二阶段：刷力扣编号1000以上的应用题。
-
 ## 数组  ✅
 1. [数组过于简单，但你该了解这些！](./problems/数组理论基础.md) 
 2. [数组：每次遇到二分法，都是一看就会，一写就废](./problems/0704.二分查找.md)
@@ -395,4 +391,3 @@
 * [二叉树理论基础](https://www.bilibili.com/video/BV1Hy4y1t7ij)
 * [二叉树的递归遍历](https://www.bilibili.com/video/BV1Wh411S7xt)
 * [二叉树的非递归遍历（一）](https://www.bilibili.com/video/BV15f4y1W7i2)
-
