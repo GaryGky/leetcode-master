@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://programmercarl.com/other/kstar.html" target="_blank">
-  <img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20210924105952.png" width="1000"/>
+<a href="https://programmercarl.com/other/xunlianying.html" target="_blank">
+  <img src="../pics/训练营.png" width="1000"/>
 </a>
 <p align="center"><strong><a href="https://mp.weixin.qq.com/s/tqCxrMEU-ajQumL1i8im9A">参与本项目</a>，贡献其他语言版本的代码，拥抱开源，让更多学习算法的小伙伴们收益！</strong></p>
 
@@ -113,6 +113,29 @@ class Solution {
             }
         }
 }
+```
+
+```java
+//解法二：空间复杂度：O(1)。用原始数组来进行反转操作
+//思路为：先整个字符串反转，再反转前面的，最后反转后面 n 个
+class Solution {
+    public String reverseLeftWords(String s, int n) {
+        char[] chars = s.toCharArray();
+        reverse(chars, 0, chars.length - 1);
+        reverse(chars, 0, chars.length - 1 - n);
+        reverse(chars, chars.length - n, chars.length - 1);
+        return new String(chars);
+    }
+
+    public void reverse(char[] chars, int left, int right) {
+        while (left < right) {
+            chars[left] ^= chars[right];
+            chars[right] ^= chars[left];
+            chars[left] ^= chars[right];
+            left++;
+            right--;
+        }
+    }
 ```
 
 python: 
@@ -263,6 +286,13 @@ function reverseLeftWords(s: string, n: number): string {
     return strArr.join('');
 };
 ```
+方法二:
+```typescript
+// 拼接两个字符串，截取符合要求的部分
+function reverseLeftWords(s: string, n: number): string {
+    return (s+s).slice(n,s.length+n);
+};
+```
 
 Swift:
 
@@ -368,5 +398,7 @@ impl Solution {
 
 
 
------------------------
-<div align="center"><img src=https://code-thinking.cdn.bcebos.com/pics/01二维码一.jpg width=500> </img></div>
+<p align="center">
+<a href="https://programmercarl.com/other/kstar.html" target="_blank">
+  <img src="../pics/网站星球宣传海报.jpg" width="1000"/>
+</a>

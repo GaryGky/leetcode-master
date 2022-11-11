@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://programmercarl.com/other/kstar.html" target="_blank">
-  <img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20210924105952.png" width="1000"/>
+<a href="https://programmercarl.com/other/xunlianying.html" target="_blank">
+  <img src="../pics/训练营.png" width="1000"/>
 </a>
 <p align="center"><strong><a href="https://mp.weixin.qq.com/s/tqCxrMEU-ajQumL1i8im9A">参与本项目</a>，贡献其他语言版本的代码，拥抱开源，让更多学习算法的小伙伴们收益！</strong></p>
 
@@ -156,20 +156,20 @@ char* replaceSpace(char* s){
 Java：
 ```Java
 //使用一个新的对象，复制 str，复制的过程对其判断，是空格则替换，否则直接复制，类似于数组复制
-public static String replaceSpace(StringBuffer str) {
-        if (str == null) {
+public static String replaceSpace(String s) {
+        if (s == null) {
             return null;
         }
-		//选用 StringBuilder 单线程使用，比较快，选不选都行
+        //选用 StringBuilder 单线程使用，比较快，选不选都行
         StringBuilder sb = new StringBuilder();
-		//使用 sb 逐个复制 str ，碰到空格则替换，否则直接复制
-        for (int i = 0; i < str.length(); i++) {
-		//str.charAt(i) 为 char 类型，为了比较需要将其转为和 " " 相同的字符串类型
-        //if (" ".equals(String.valueOf(str.charAt(i)))){
+        //使用 sb 逐个复制 s ，碰到空格则替换，否则直接复制
+        for (int i = 0; i < s.length(); i++) {
+            //s.charAt(i) 为 char 类型，为了比较需要将其转为和 " " 相同的字符串类型
+            //if (" ".equals(String.valueOf(s.charAt(i)))){}
             if (s.charAt(i) == ' ') {
                 sb.append("%20");
             } else {
-                sb.append(str.charAt(i));
+                sb.append(s.charAt(i));
             }
         }
         return sb.toString();
@@ -538,5 +538,7 @@ impl Solution {
 ```
 
 
------------------------
-<div align="center"><img src=https://code-thinking.cdn.bcebos.com/pics/01二维码一.jpg width=500> </img></div>
+<p align="center">
+<a href="https://programmercarl.com/other/kstar.html" target="_blank">
+  <img src="../pics/网站星球宣传海报.jpg" width="1000"/>
+</a>
